@@ -20,7 +20,7 @@ The structure of the code and the problem-solving is made up of the following st
   a) Do a cointegration test on clusters to find the best pairs
   b) Plot the Pairs
 
-For a more detailed Guide behind the process please visit the Algotrading101 blog post that will be attached here upon publishing.
+For a more detailed Guide behind the process please visit the Algotrading101 blog post: https://algotrading101.com/learn/cluster-analysis-guide/
 
 ![download (6)](https://user-images.githubusercontent.com/74266147/112733578-0dacb280-8f41-11eb-91ac-456f8245d065.png)
 
